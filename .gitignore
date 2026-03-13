@@ -5,7 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
-
+sr_runs*
+sr_eval*
+SymMTRS2*
 # Distribution / packaging
 .Python
 build/
