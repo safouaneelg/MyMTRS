@@ -1,5 +1,6 @@
 # SyMTRS
 
+<<<<<<< HEAD
 ## Super Resolution
 
 ```bash
@@ -72,3 +73,6 @@ nohup python train_moncular_depth.py --model unidepth_s --rgb /home/data/SyMTRS/
 ```bash
 nohup python train_moncular_depth.py --model midas_s --rgb /home/data/SyMTRS/hr --depth /home/data/SyMTRS/depth --out_dir monodepth_runs --datasplit_seed 42 > monodepth_runs/midas_s/train.log 2>&1 &
 ```
+=======
+Comming soon ...
+>>>>>>> d5124d9ee3cddfa141d7df44a39e6664ef5d10fe
