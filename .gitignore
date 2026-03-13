@@ -8,6 +8,7 @@ __pycache__/
 sr_runs*
 sr_eval*
 SymMTRS2*
+pytorch-CycleGAN-and-pix2pix*
 # Distribution / packaging
 .Python
 build/
